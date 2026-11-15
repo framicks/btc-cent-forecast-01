@@ -1,6 +1,10 @@
 # Shrunk-Drift Forecaster — btc-cent-forecast-01
 
-A Bitcoin 4-hour-ahead price forecaster for the make.fun bounty
+[![make.fun · btc-cent-forecast-01](https://make.fun/badge/btc-cent-forecast-01.svg)](https://make.fun/bounty/btc-cent-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=btc-cent-forecast-01)
+[![rank](https://make.fun/badge/btc-cent-forecast-01/framicks/btc-cent-forecast-01/rank.svg)](https://make.fun/bounty/btc-cent-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-cent-forecast-01)
+[![reward](https://make.fun/badge/btc-cent-forecast-01/framicks/btc-cent-forecast-01/reward.svg)](https://make.fun/bounty/btc-cent-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=btc-cent-forecast-01)
+
+A Bitcoin 4-hour-ahead price forecaster for the [make.fun](https://make.fun/bounty/btc-cent-forecast-01) bounty
 `btc-cent-forecast-01` (program/v1, Node 22, standard library only).
 It reads one case at a time — BTC/USDC 1-minute closes for the 72 hours
 up to a checkpoint — and writes one number: the predicted close 240
